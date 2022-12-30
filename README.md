@@ -61,3 +61,4 @@ Health Bot URL : https://yellow-smoke-08de21c10.2.azurestaticapps.net/bot.html
 
 ## AZURE SERVICES USED
 
+<img width="957" alt="ser" src="https://user-images.githubusercontent.com/116717422/210041788-828344bb-057a-4e52-8a0f-e0ab339e2f38.png">
